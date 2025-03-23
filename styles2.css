@@ -56,7 +56,7 @@ header {
 .hero {
     position: relative;
     height: 600px;
-    background-image: url('/Home/vitoria.png');
+    background-image: url('vitoria.png');
     background-size: cover;
     background-position: center;
     color: white;
